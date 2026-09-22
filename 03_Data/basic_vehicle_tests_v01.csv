@@ -1,0 +1,6 @@
+Test,Input,Expected Result,Actual Result,Passed
+Distance,20 m/s for 10 s,200 m,200 m,Yes
+Power-to-mass,150000 W / 750 kg,200 W/kg,200 W/kg,Yes
+Weight,750 kg,7357.5 N,7357.5 N,Yes
+Speed,500 m / 20 s,25 m/s,25 m/s,Yes
+Acceleration,10 to 30 m/s in 5 s,4 m/s²,4 m/s²,Yes
